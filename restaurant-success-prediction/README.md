@@ -72,7 +72,7 @@ For more details, refer to:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/rohanbhadreshpatel/restaurant-success-prediction.git
+    git clone https://github.com/rohanbpatel14/restaurant-success-prediction.git
     ```
 2. **Navigate to the project directory**:
     ```bash
