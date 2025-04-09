@@ -60,7 +60,7 @@ For more details, refer to:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/rohanbhadreshpatel/Data-Mining.git
+   git clone https://github.com/rohanbpatel14/Data-Mining.git
    cd Data-Mining
    ```
 
